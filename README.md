@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, Petar Petrovic
+#### I am Front End and Software Developer
+>I'm Petar from Serbia, and i do for most of my time Front End Development. I really enjoy learning new languages. Beside Front End Development I also do Software Development in Java and C# (.NET).
 
-<!--
-**ppetar3333/ppetar3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on desktop application 
+- 🌱 I’m currently learning Java Servlets 
+- 🤔 I’m looking for help with React 
+- 📫 How to reach me: ppetar33@gmail.com / ppetar3333@gmail.com 
 
-Here are some ideas to get you started:
+#### Skills and Expirience
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='50'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='50'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='css3' height='50'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg' alt='css3' height='50'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gulp.svg' alt='css3' height='50'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='css3' height='50'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='css3' height='50'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='css3' height='50'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='css3' height='50'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Github and Instagram
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>](https://github.com/ppetar3333)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='60'>](https://www.instagram.com/petrex_____/)  
+</br>
+![Profile views](https://gpvc.arturio.dev/ppetar3333)
