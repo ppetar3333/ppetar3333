@@ -13,4 +13,3 @@
 #### Find me on Instagram
  [<img src='https://user-images.githubusercontent.com/82830616/141118246-818be75e-8ce6-4011-ae21-c8a1aff786d0.png' alt='instagram' height='60'>](https://www.instagram.com/petrex_____/)  
 </br>
-![Profile views](https://gpvc.arturio.dev/ppetar3333)
