@@ -3,8 +3,8 @@
 >I'm Petar from Serbia, and i do for most of my time Front End Development. I really enjoy learning new languages. Beside Front End Development I also do Software Development in Java and C# (.NET).
 
 - 🔭 I’m currently working on desktop and web applications
-- 🌱 I’m currently learning  
-- 🤔 I’m looking for help with React 
+- 🌱 I’m currently learning React JS
+- 🤔 I’m looking for help with back end development
 - 📫 How to reach me: ppetar33@gmail.com
 
 #### Skills and Expirience
