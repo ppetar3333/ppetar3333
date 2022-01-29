@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on desktop and web applications
 - 🌱 I’m currently learning React JS
-- 🤔 I’m looking for help with back end development
 - 📫 How to reach me: ppetar33@gmail.com
 
 #### Skills and Expirience
