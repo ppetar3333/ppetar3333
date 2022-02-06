@@ -11,7 +11,7 @@
 
 
 #### My links: 
- [<img src='https://user-images.githubusercontent.com/82830616/141118246-818be75e-8ce6-4011-ae21-c8a1aff786d0.png' alt='instagram' height='50'>](https://www.instagram.com/petrex_____/) &nbsp; &nbsp;  [<img src='https://user-images.githubusercontent.com/82830616/142861978-ef69b1da-8a58-4d06-a7f1-b1d8f3be6145.png' alt='website' height='50'>](https://www.petrovicpetar.com)  &nbsp; &nbsp; [<img align="left" alt="Petar Petrovic | LinkedIn" height='50' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](linkedin.com/in/petar-petrović-224480211)
+ [<img src='https://user-images.githubusercontent.com/82830616/141118246-818be75e-8ce6-4011-ae21-c8a1aff786d0.png' alt='instagram' height='50'>](https://www.instagram.com/petrex_____/) &nbsp; &nbsp;  [<img src='https://user-images.githubusercontent.com/82830616/142861978-ef69b1da-8a58-4d06-a7f1-b1d8f3be6145.png' alt='website' height='50'>](https://www.petrovicpetar.com)  &nbsp; &nbsp; [<img align="left" alt="Petar Petrovic | LinkedIn" height='50' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/petar-petrović-224480211/)
  
  
 
