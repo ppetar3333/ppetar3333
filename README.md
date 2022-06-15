@@ -1,5 +1,5 @@
 ### Hi there 👋, Petar Petrovic
-#### I am Front End and Software Developer
+#### I am Frontend Developer
 >I'm Petar from Serbia, and i do for most of my time Frontend Development. I really enjoy learning new languages. Beside Frontend Development I also do Software Development in Java and C# (.NET).
 
 - 🔭 I’m currently working on web applications
