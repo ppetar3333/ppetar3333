@@ -1,6 +1,6 @@
 ### Hi there 👋, Petar Petrovic
-#### I am a Frontend Developer with expertise in Angular and NestJS
-> I'm Petar from Serbia, and I specialize in Frontend Development, with a strong focus on Angular. I have a passion for learning new technologies and languages. In addition to my expertise in Angular, I also have experience in Software Development with Java and Go which i also find very exciting.
+#### I am a Frontend Developer with expertise in Angular
+> I'm Petar from Serbia, and I specialize in Frontend Development, with a strong focus on Angular. I have a passion for learning new technologies and languages. In addition to my expertise in Angular, I also have experience in Software Development with Java and NestJS which i also find very exciting.
 
 - 🔭 I’m currently working on web applications
 - 🌱 I’m currently improving at JavaScript frameworks and libraries
